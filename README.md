@@ -1,4 +1,4 @@
-# :robot: Programs, Variables and Strings
+# :robot: Loops and Conditionals
 
 ## 🤓 Overview and learning outcomes 
 
