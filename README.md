@@ -27,8 +27,8 @@ The goal of this lab assignment is to introduce you to loops and conditionals so
 ## 📝 Next steps
 1. Complete the work in the notebook here (5.4.1-Python_Programs_Variables_Strings.ipynb) using the CoLab interface.
 2. Using GIT, add the repo to your raspberry pi.
-3. Using NANO and the terminal in your pi, add a text box to the bottom of the .ipynb file discussing what you learned in this lab.
-4. Commit and Push the code to your repo.
+3. Using NANO and the terminal in your pi, create a new text file called "observations.txt" and write what you learned in this lab.
+4. Commit and Push the code to your repo so that I will be able to read your new text file from GitHub.
 
 ## 📚  Resources 
 [Think Python Textbook](https://greenteapress.com/wp/think-python-2e/)
