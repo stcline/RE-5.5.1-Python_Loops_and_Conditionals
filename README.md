@@ -32,4 +32,5 @@ The goal of this lab assignment is to introduce you to loops and conditionals so
 
 ## 📚  Resources 
 [Think Python Textbook](https://greenteapress.com/wp/think-python-2e/)
+
 [Raspberry Pi Foundation - Getting Started with Git](https://projects.raspberrypi.org/en/projects/getting-started-with-git)
